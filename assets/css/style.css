@@ -1,0 +1,72 @@
+.style
+{
+	color: red;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: 'Monotype Corsiva';
+}
+.h
+{
+	color: red;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: 'Monotype Corsiva';
+	text-align: center;
+}
+/*.marquee
+{
+	color: red;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: 'Monotype Corsiva';
+}*/
+#header
+{
+	height: 10%;
+	width: 100%;
+	background-color: orange;
+	color: white;
+	/*top: 2%;*/
+	position: fixed;
+	font-size: 30px;
+	font-family: 'Monotype Corsiva';
+}
+#left_side
+{
+	height: 75%;
+	width: 15%;
+	top: 21%;
+	position: fixed;
+}
+#right_side
+{
+	height: 75%;
+	width: 80%;
+	background-color: whitesmoke;
+	position: fixed;
+	left: 17%;
+	top: 21%;
+	color: red;
+	border: solid 1px black;
+}
+#top_span
+{
+	top: 15%;
+	width: 100%;
+	/*left: 17%;*/
+	position: fixed;
+	color: red;
+	font-family: 'Monotype Corsiva';
+}
+.tables
+{
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+#td
+{
+	border: solid 1px black;
+	padding-left:2px;
+	text-align: left;
+	width: 200px; 
+}
